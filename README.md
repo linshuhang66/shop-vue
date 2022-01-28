@@ -614,6 +614,6 @@ export default {
 
 #### 关注公众号可以领取教程笔记哦 ~
 
-![](https://i.bmp.ovh/imgs/2022/01/32c1360bcde3e5b8.jpg)
+![](http://101.200.73.72/img/wx.jpg)
 
 
