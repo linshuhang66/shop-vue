@@ -612,6 +612,8 @@ export default {
 
 敢于尝试的你 其实已经进步了 ^_^
 
+#### 关注公众号可以领取教程笔记哦 ~
 
+![](https://i.bmp.ovh/imgs/2022/01/32c1360bcde3e5b8.jpg)
 
 
