@@ -614,6 +614,6 @@ export default {
 
 #### 关注公众号可以领取教程笔记哦 ~
 
-![](http://101.200.73.72/img/wx.jpg)
+![](https://www.qiuchenglei.top/img/wx.jpg)
 
 
